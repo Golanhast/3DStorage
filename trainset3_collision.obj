@@ -1,6 +1,3 @@
-# Blender 4.2.0
-# www.blender.org
-mtllib trainset3_collision.mtl
 o trainset3_ref
 v 67.200027 52.000626 470.399994
 v 67.200027 50.400352 470.399994
